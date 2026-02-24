@@ -1,0 +1,15 @@
+Why should you create a new branch when working on a code base?
+
+When working on a project with other people, it's good to create a new branch to work on so that
+you can work on the project without getting in the way of others. Once you're done on that branch,
+you can then decide to show it to the other people you're working with and decide what to do with it
+next. In our case however, it's good to create a new branch to work on instead of main so that
+once we're done with an assignment, we can just push that singular assignment up to the reposatory,
+making it so that the auto-graders can work properly and just grade that assignment.
+
+What is the purpose of creating Pull Requests?
+
+By creating a pull request, we can show teamates (or in this case our teacher) what we worked on on
+our different branch and determine whether or not to merge or do something with that change. Here in
+the classroom, creating a pull request allows us to show the teacher what we did so that the teacher
+can not only see what we did but also merge the assignment onto main (or, in general, just grade it).
