@@ -1,10 +1,10 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
-//Date -
-//Class -
-//Lab  - 
+//Name - Mylee Geisler
+//Date - 2 - 27 - 26
+//Class - Computer Science I 
+//Lab  - String Ripper
 
 import static java.lang.System.*;
 
