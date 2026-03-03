@@ -1,10 +1,10 @@
 //(c) A+ Computer Science
 //www.apluscompsci.com
 
-//Name -
-//Date -
-//Class -
-//Lab  -
+//Name - Mylee Geisler
+//Date - 2 - 24 - 26
+//Class - Computer Science I
+//Lab  - Start and End
 
 import static java.lang.System.*;
 
@@ -14,25 +14,30 @@ public class FirstAndLast
 
 	public FirstAndLast(String s)
 	{
+		setString(s);
 	}
 
 	public void setString(String s)
 	{
+		word = s;
+		out.println("word :: " + word);
 	}
 
 	public String getFirst()
 	{
-		return "";
+		String first = word.charAt(0) + " ";
+		return first;
 	}
 	
 	public String getLast()
 	{
-		return "";
+		String last = word.charAt(word.length() - 1) + " ";
+		return last;
 	}
 
  	public String toString()
  	{
- 		String output="";
+ 		String output = "word :: " + word;
  		return output;
 	}
 }
