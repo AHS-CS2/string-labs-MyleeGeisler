@@ -34,7 +34,7 @@ public class FirstRunner
 
 		demo = new FirstAndLast("TCEA");
 		System.out.println("first letter :: " + demo.getFirst());
-		System.out.println("last letter ::() " + demo.getLast());
+		System.out.println("last letter :: " + demo.getLast());
 
 		out.print("\n\n");
 
